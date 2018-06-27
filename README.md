@@ -1,2 +1,2 @@
 # Super-Store-s-Exploratory-data-analysis-EDA-With-Python
-Sample Jupyter book about basics of Exploratory Data Analysis
+This repo contains the code I wrote for my blog post Overview of Exploratory Data Analysis With Python
